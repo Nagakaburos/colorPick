@@ -1,0 +1,17 @@
+form {
+    background-color: #fff;
+    width: 150px;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 15px;
+}
+.color{
+    width: 200%;
+    padding: 15px;
+    outline: none;
+    border-radius: 5px;
+    border: 1 px solid #e8e1e1;
+}
+body {
+    text-align:center
+}
